@@ -1,0 +1,1 @@
+export const chanels =["Google","Dribble","Microsoft","Behance","Weather chanels","Gurus","iMedia","Creativeye","Khan studios","yahoo","Dribble","Microsoft","Behance","Weather chanels","Gurus","iMedia","Creativeye","Khan studios","yahoo"]

@@ -1,0 +1,17 @@
+.activity-container{
+    border-top: 2px solid #F3E5CC;
+    border-bottom: 1px solid #F3E5CC;
+    height: 610px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    overflow-y: scroll;
+}
+.activity-container::-webkit-scrollbar {
+    display: none; 
+}
+.activity-image{
+    width: 120px;
+    height: 85px;
+    margin-right: 10px;
+    background-color: #F3E5CC;
+}

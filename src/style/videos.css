@@ -1,0 +1,30 @@
+.container-videos{
+    display: flex;
+    justify-content: space-between;
+}
+
+.videos{
+    width: 100%;
+}
+.activity{
+    width: 30%;
+}
+.main-video{
+    width: 424px;
+    height: 400px;
+    background-color: #F3E5CC;
+}
+.video{
+    width: 200px;
+    height: 187px;
+    background-color: #F3E5CC;
+}
+.video1{
+    width: 200px;
+    height: 187px;
+    border: 2px solid #F3E5CC;
+    background-color: #953D46;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

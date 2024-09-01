@@ -1,0 +1,29 @@
+.footer-container{
+    margin-top: 100px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-top: 2px solid #F3E5CC;
+}
+.footer-container div:nth-child(1) div{
+    width: 50px;
+    height: 50px;
+    background-color: #F3E5CC;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color:#953D46 ;
+}
+.footer-container div:nth-child(2) a{
+    text-decoration: none;
+    color: #F3E5CC;
+    font-size: 12px;
+}
+.footer-container small{
+    color: #F3E5CC;
+    font-size: 12px;
+}
+.footer-container div:nth-child(4) a{
+    text-decoration: none;
+    color: #F3E5CC;
+    font-size: 12px;
+}

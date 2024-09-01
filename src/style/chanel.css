@@ -1,0 +1,23 @@
+.chanels-container{
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+    border-top: 2px solid #F3E5CC;
+    border-bottom: 1px solid #F3E5CC;
+    height: 850px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    overflow-y: scroll;
+}
+.chanels-container::-webkit-scrollbar {
+    display: none; 
+}
+.chanel{
+    width: 150px;
+    height: 130px;
+    background-color: #F3E5CC;
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    padding-left:10px;
+}
